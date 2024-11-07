@@ -22,7 +22,7 @@ title: Santen Grand Shrine
 email: nightsyt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The home of all things NiFel! Check here for updates on all my projects, and links to all my other socials.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/NightFuryis11.github.io/" # the subpath of your site, e.g. /blog
 url: "http://mountaintopshrine.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  NightFuryis11
